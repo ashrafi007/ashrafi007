@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://media1.tenor.com/m/HMlWOAaJWi0AAAAd/kakashi-mangekyo-sharingan.gif" width="100%"/>
+</div>
+
+<div align="center">
   <img src="https://i.pinimg.com/originals/d2/d8/4a/d2d84af7e4c6b6c33a606d3127f4d31e.gif" width="500"/>
 </div>
 
