@@ -6,9 +6,6 @@
 
 <div align="center">
 
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF003C?style=for-the-badge)
-![AI / ML / NLP](https://img.shields.io/badge/AI%20%2F%20ML%20%2F%20NLP-8B00FF?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-00C2FF?style=for-the-badge)
-![Web Dev](https://img.shields.io/badge/Web%20Dev-00FF87?style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=FF003C&center=true&vCenter=true&multiline=false&width=500&lines=🕷️+Web+Scraping;🤖+AI+%2F+ML+%2F+NLP;📊+Data+Science;🌐+Web+Dev)](https://git.io/typing-svg)
 
 </div>
