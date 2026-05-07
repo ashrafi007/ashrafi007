@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://gifsec.com/wp-content/uploads/2022/10/kakashi-gif-7.gif" width="100%"/>
+  <img src="https://gifdb.com/images/high/animated-moving-sharingan-t4o0nis1oyfvrxdd.gif" width="100%"/>
 </div>
-
 <br/>
 
 <div align="center">
