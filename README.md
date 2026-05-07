@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://gifdb.com/images/high/animated-moving-sharingan-t4o0nis1oyfvrxdd.gif" width="100%"/>
+  <img src="https://i.pinimg.com/originals/d2/d8/4a/d2d84af7e4c6b6c33a606d3127f4d31e.gif" width="100%"/>
 </div>
+
 <br/>
 
 <div align="center">
