@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/d2/d8/4a/d2d84af7e4c6b6c33a606d3127f4d31e.gif" width="100%"/>
+  <img src="https://www.finetoshine.com/wp-content/uploads/2020/07/Naruto-Bae-GIF-Find-Share-on-GIPHY.gif" width="100%"/>
 </div>
 
 <br/>
