@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gifsec.com/wp-content/uploads/2022/10/kakashi-gif-3.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/d2/d8/4a/d2d84af7e4c6b6c33a606d3127f4d31e.gif" width="500"/>
 </div>
 
 <br/>
