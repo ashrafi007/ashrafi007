@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/HMlWOAaJWi0AAAAd/kakashi-mangekyo-sharingan.gif" width="100%"/>
+  <img src="https://gifsec.com/wp-content/uploads/2022/10/kakashi-gif-7.gif" width="100%"/>
 </div>
+
 <br/>
 
 <div align="center">
